@@ -9,7 +9,7 @@ This project aims to predict whether a bank customer is likely to churn using ma
 The dataset used in this project contains several columns which has customer information and then a target column which specifies whether the customer will churn or not
 
 The dataset is included in this repository as:  
-📁 `churn_preiction.csv` 
+📁 `churn_prediction.csv` 
 
 ---
 
